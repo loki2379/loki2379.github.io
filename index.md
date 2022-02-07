@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Let there be Photophobia!
 
-[Let there be Photophobia!](/https://callmetoots.itch.io/let-there-be-photophobia)
+[Let there be Photophobia!](https://callmetoots.itch.io/let-there-be-photophobia)
 <img src="https://img.itch.zone/aW1hZ2UvMTMxMjQwMi83NjU0NzUyLnBuZw==/original/75Kjn4.png"/>
 
 ---
