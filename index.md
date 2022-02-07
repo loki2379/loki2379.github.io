@@ -8,8 +8,8 @@
 <img src="https://img.itch.zone/aW1hZ2UvMTMxMjQwMi83NjU0NzUyLnBuZw==/original/75Kjn4.png"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Test](/pdf/sample_presentation.pdf)
+<img src="images/soba.jpg.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
