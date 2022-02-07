@@ -4,8 +4,8 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Let there be Photophobia!](/https://callmetoots.itch.io/let-there-be-photophobia)
+<img src="https://img.itch.zone/aW1hZ2UvMTMxMjQwMi83NjU0NzUyLnBuZw==/original/75Kjn4.png"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
