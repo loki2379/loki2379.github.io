@@ -6,7 +6,8 @@
 
 [Let there be Photophobia!](https://callmetoots.itch.io/let-there-be-photophobia)
 <img src="https://img.itch.zone/aW1hZ2UvMTMxMjQwMi83NjU0NzUyLnBuZw==/original/75Kjn4.png"/>
-Indie horor game
+Indie horor game made in few days as the part of the game jam pratice.
+I was tasked with level design.
 
 ---
 [Test](/pdf/sample_presentation.pdf)
